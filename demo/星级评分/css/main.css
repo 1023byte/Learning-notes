@@ -1,0 +1,24 @@
+body,ul,li{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style-type: none;
+}
+.rating{
+    width: 175px;
+    height: 35px;
+    margin: 100px auto;
+}
+.rating2{
+    width: 175px;
+    height: 35px;
+    margin: 100px auto;
+}
+.item{
+    float: left;
+    width:35px;
+    height: 35px;
+    background: url(../img/xx.png) no-repeat;
+    cursor: pointer;
+}
