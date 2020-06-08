@@ -1,8 +1,8 @@
 ## 星级评分原理和实现（上）
-#### <a href="https://1023byte.github.io/Learning-Web/IMOOC/JS/Star%20rating/" target="blank">效果演示</a>
+#### <a href="https://1023byte.github.io/Learning-Web/IMOOC/JS/Star%20rating/" target="_blank">效果演示</a>
 
 ## 京东无延迟菜单效果
-#### <a href="https://1023byte.github.io/Learning-Web/IMOOC/JS/京东商城无延迟菜单" target="blank">效果演示</a>
+#### <a href="https://1023byte.github.io/Learning-Web/IMOOC/JS/京东商城无延迟菜单" target="_blank">效果演示</a>
 ### 3-1
 开发一个普通的二级菜单
 通过事件代理方式进行绑定  
